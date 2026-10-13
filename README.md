@@ -39,7 +39,7 @@ In it i have used 03 divs :
 
 
 
-# ------------------------ Styling of the page with CSS ------------------------
+# -------------- Styling of the page with CSS -----------------
 
 CSS - Cascading Style Sheet
 + It can be link with help of tag <link rel="" href=""> in which href is th location or the address of the CSS file.
