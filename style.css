@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 40vw;
+}
+
+.navbar{
+    overflow: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+.me>ul{
+    float: left;
+    margin-left: 25vw;
+    margin-top: 3.4vh;
+    font-size: 1.2vw;
+}
+
+.me>ul>li{
+    display: inline;
+    margin-left: 4vw;
+    font-family: Arial, sans-serif;
+    
+}
+
+.me>ul>li>a{
+    color: grey;
+}
+
+li{
+    text-decoration: none;
+}
+
+.me {
+    display: inline;
+    
+}
+
+.logo{
+    color: black;
+    text-decoration: none;
+    float:left;
+    float: inline-start;
+    margin-top: 2.6vh;
+    font-size: 2vw;
+    margin-left: 3vw;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+}
+
+.username{
+    color: #2196F3;
+    background-color: #E8F5FF;
+    padding:2vw;
+    border-radius: 12px;
+    margin-right: 3vw;
+    padding-top: 1.8vh;
+    padding-bottom: 1.8vh;
+    margin-top: 1.5vh;
+    float: inline-end;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    
+}
+
+
+
+.left{
+   width: 50vw;
+   float: left;
+   padding: 20vh;
+
+}
+
+.h2{
+    font-size: 3vw;
+    margin-left: 2vw;
+
+}
+
+.sh{
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    line-height: 1.45;
+    color: #4B5B67;
+    
+}
+
+.sh1{
+    color: #06A8FF;
+    font-weight: 700;
+}
+
+.left>p {
+    text-align: justify;
+    color: #A0AAB3;
+    margin: 2vh;
+    margin-left: 2vw;
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.45;
+    font-size: 14px;
+}
+
+.left>button{
+        background-color: #06A8FF;
+        color: #FFFFFF;
+        padding: 2vh 3vw;
+        border: none;
+        border-radius: 12px;
+        margin-top: 2vh;
+        padding: 20px 45px;
+        font-family: Arial, sans-serif;
+        font-size: 1vw;
+        font-weight: 700;
+        border-radius: 2.4vh;
+        margin-left: 2vw;
+}
+
+
+
+.right{
+    width: 50vw;
+    float: right;
+    padding-top: 4.5vh;
+}
+
+.image{
+    margin-bottom: 50v;
+}
